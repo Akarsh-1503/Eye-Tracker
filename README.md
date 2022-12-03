@@ -1,5 +1,5 @@
-# FaceDetection_1
-Detecting Face using Python
+# Eye-Tracker
+Detecting Eye Direction using Python
 
 Project in
 ->Project
